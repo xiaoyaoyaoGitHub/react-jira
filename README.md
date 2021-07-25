@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## create
+
+### react17-ts
+2021必修 React17+React Hook+TS4 最佳实践，仿 Jira 企业级项目 MP4
+
+* Start_time 2021-07-24
+
+
+### 创建项目
+ * 初始化项目 `npx create-react-app jira --template typescript`
