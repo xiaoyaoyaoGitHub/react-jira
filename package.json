@@ -39,7 +39,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build -r git@github.com:sindu12jun/sindu12jun.github.io.git -b main",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "json-server":"json-server __json_server_mock__/db.json --watch"
   },
   "eslintConfig": {
     "rules": {
